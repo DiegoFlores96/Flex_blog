@@ -1,4 +1,4 @@
-# Flex_blog
+# Flex_Blog
 ## Projeto do Curso  de Flex box  na plataforma origamid
 <img src="img/print_projeto/pg01.png">
 <img src="img/print_projeto/pg2.png">
